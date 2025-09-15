@@ -57,7 +57,8 @@ Build end-to-end projects like a YouTube Transcript Q&A Bot.
 
 Clone the repository
 
-git clone https://github.com/<your-username>/GenAI-Langchain.git
+#### git clone https://github.com/<your-username>/GenAI-Langchain.git
+
 cd GenAI-Langchain
 
 
