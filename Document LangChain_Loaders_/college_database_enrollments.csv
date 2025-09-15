@@ -1,0 +1,490 @@
+student_id,student_name,gender,dob,program,year_of_study,department_code,department_name,advisor_name,email,course_code,course_title,course_department,credits,instructor_id,instructor_name,term,enrollment_status,grade
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,BIO270,Bioinformatics,BIO,3,I010,Prof. Shweta Kulkarni,Fall 2023,Completed,C
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CHE280,Transport Phenomena,CHE,3,I007,Dr. Sameer Khan,Fall 2023,Dropped,
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CSE201,Data Structures,CSE,4,I005,Prof. R. Srinivas,Fall 2023,Enrolled,
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CSE210,Database Systems,CSE,3,I002,Dr. Rahul Mehta,Fall 2023,Completed,B+
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CSE320,Computer Networks,CSE,3,I001,Dr. Ananya Gupta,Fall 2023,Dropped,
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,BIO170,Genetics,BIO,3,I005,Prof. R. Srinivas,Fall 2023,Completed,B-
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,BIO270,Bioinformatics,BIO,3,I005,Prof. R. Srinivas,Fall 2023,Completed,S
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,CSE310,Operating Systems,CSE,4,I008,Prof. Priya Iyer,Fall 2023,Completed,D
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,IT260,Cloud Computing,IT,3,I009,Dr. Vikram Rao,Fall 2023,Completed,C+
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,ME310,Heat Transfer,ME,3,I009,Dr. Vikram Rao,Fall 2023,Completed,C
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME120,Thermodynamics,ME,4,I002,Dr. Rahul Mehta,Fall 2023,Completed,D
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME230,Machine Design,ME,3,I005,Prof. R. Srinivas,Fall 2023,Completed,A-
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME310,Heat Transfer,ME,3,I003,Prof. Kavita Sharma,Fall 2023,Enrolled,
+S0018,Kabir Iyer,Other,2005-06-15,BSc (Engg.),4,CE,Civil Engineering,Dr. Rahul Mehta,kabir.iyer.s0018@univ.edu,CE140,Structural Analysis,CE,3,I009,Dr. Vikram Rao,Fall 2023,Completed,B+
+S0018,Kabir Iyer,Other,2005-06-15,BSc (Engg.),4,CE,Civil Engineering,Dr. Rahul Mehta,kabir.iyer.s0018@univ.edu,CE310,Geotechnical Engg,CE,3,I002,Dr. Rahul Mehta,Fall 2023,Completed,A
+S0018,Kabir Iyer,Other,2005-06-15,BSc (Engg.),4,CE,Civil Engineering,Dr. Rahul Mehta,kabir.iyer.s0018@univ.edu,ECE220,Signals & Systems,ECE,3,I003,Prof. Kavita Sharma,Fall 2023,Enrolled,
+S0018,Kabir Iyer,Other,2005-06-15,BSc (Engg.),4,CE,Civil Engineering,Dr. Rahul Mehta,kabir.iyer.s0018@univ.edu,ECE220,Signals & Systems,ECE,3,I004,Dr. Arjun Nair,Fall 2023,Completed,A
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,CSE101,Intro to Programming,CSE,4,I002,Dr. Rahul Mehta,Fall 2023,Completed,D
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,CSE310,Operating Systems,CSE,4,I002,Dr. Rahul Mehta,Fall 2023,Dropped,
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,IT160,Web Technologies,IT,3,I003,Prof. Kavita Sharma,Fall 2023,Completed,U
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,IT160,Web Technologies,IT,3,I010,Prof. Shweta Kulkarni,Fall 2023,Completed,C+
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,ME310,Heat Transfer,ME,3,I006,Dr. Neha Verma,Fall 2023,Completed,A-
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,ECE110,Circuits I,ECE,4,I002,Dr. Rahul Mehta,Fall 2023,Enrolled,
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,ECE220,Signals & Systems,ECE,3,I003,Prof. Kavita Sharma,Fall 2023,Completed,C
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,ECE310,Digital Communication,ECE,3,I006,Dr. Neha Verma,Fall 2023,Enrolled,
+S0026,Vivaan Gupta,Female,2000-07-09,B.E.,3,BIO,Biotechnology,Dr. Sameer Khan,vivaan.gupta.s0026@campus.edu.in,BIO170,Genetics,BIO,3,I001,Dr. Ananya Gupta,Fall 2023,Completed,C+
+S0026,Vivaan Gupta,Female,2000-07-09,B.E.,3,BIO,Biotechnology,Dr. Sameer Khan,vivaan.gupta.s0026@campus.edu.in,BIO270,Bioinformatics,BIO,3,I010,Prof. Shweta Kulkarni,Fall 2023,Completed,B+
+S0026,Vivaan Gupta,Female,2000-07-09,B.E.,3,BIO,Biotechnology,Dr. Sameer Khan,vivaan.gupta.s0026@campus.edu.in,CSE320,Computer Networks,CSE,3,I002,Dr. Rahul Mehta,Fall 2023,Completed,B+
+S0026,Vivaan Gupta,Female,2000-07-09,B.E.,3,BIO,Biotechnology,Dr. Sameer Khan,vivaan.gupta.s0026@campus.edu.in,IT260,Cloud Computing,IT,3,I008,Prof. Priya Iyer,Fall 2023,Completed,S
+S0026,Vivaan Gupta,Female,2000-07-09,B.E.,3,BIO,Biotechnology,Dr. Sameer Khan,vivaan.gupta.s0026@campus.edu.in,ME230,Machine Design,ME,3,I001,Dr. Ananya Gupta,Fall 2023,Completed,D
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,CSE101,Intro to Programming,CSE,4,I002,Dr. Rahul Mehta,Fall 2023,Completed,C+
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,EEE150,Power Systems,EEE,4,I006,Dr. Neha Verma,Fall 2023,Completed,C+
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,IT160,Web Technologies,IT,3,I004,Dr. Arjun Nair,Fall 2023,Completed,U
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,BIO170,Genetics,BIO,3,I008,Prof. Priya Iyer,Fall 2023,Completed,A
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,BIO270,Bioinformatics,BIO,3,I006,Dr. Neha Verma,Fall 2023,Completed,C
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,ECE110,Circuits I,ECE,4,I002,Dr. Rahul Mehta,Fall 2023,Enrolled,
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,ECE220,Signals & Systems,ECE,3,I005,Prof. R. Srinivas,Fall 2023,Completed,S
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,ECE310,Digital Communication,ECE,3,I007,Dr. Sameer Khan,Fall 2023,Enrolled,
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,CSE101,Intro to Programming,CSE,4,I006,Dr. Neha Verma,Fall 2023,Completed,S
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,ECE220,Signals & Systems,ECE,3,I001,Dr. Ananya Gupta,Fall 2023,Completed,U
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,ECE310,Digital Communication,ECE,3,I001,Dr. Ananya Gupta,Fall 2023,Enrolled,
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,EEE150,Power Systems,EEE,4,I010,Prof. Shweta Kulkarni,Fall 2023,Completed,D
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,ME120,Thermodynamics,ME,4,I004,Dr. Arjun Nair,Fall 2023,Completed,C+
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CE310,Geotechnical Engg,CE,3,I006,Dr. Neha Verma,Fall 2023,Completed,F
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CSE201,Data Structures,CSE,4,I004,Dr. Arjun Nair,Fall 2023,Enrolled,
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CSE210,Database Systems,CSE,3,I002,Dr. Rahul Mehta,Fall 2023,Completed,D
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CSE310,Operating Systems,CSE,4,I002,Dr. Rahul Mehta,Fall 2023,Completed,C+
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,IT260,Cloud Computing,IT,3,I009,Dr. Vikram Rao,Fall 2023,Completed,B-
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,ECE220,Signals & Systems,ECE,3,I001,Dr. Ananya Gupta,Fall 2023,Completed,U
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,ECE310,Digital Communication,ECE,3,I010,Prof. Shweta Kulkarni,Fall 2023,Completed,U
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,EEE150,Power Systems,EEE,4,I009,Dr. Vikram Rao,Fall 2023,Completed,B-
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,EEE150,Power Systems,EEE,4,I009,Dr. Vikram Rao,Fall 2023,Completed,B+
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,IT160,Web Technologies,IT,3,I001,Dr. Ananya Gupta,Fall 2023,Enrolled,
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,ME230,Machine Design,ME,3,I002,Dr. Rahul Mehta,Fall 2023,Completed,S
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,ME230,Machine Design,ME,3,I004,Dr. Arjun Nair,Fall 2023,Completed,U
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,ME310,Heat Transfer,ME,3,I009,Dr. Vikram Rao,Fall 2023,Completed,B
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE110,Circuits I,ECE,4,I009,Dr. Vikram Rao,Fall 2023,Dropped,
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE220,Signals & Systems,ECE,3,I005,Prof. R. Srinivas,Fall 2023,Enrolled,
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE310,Digital Communication,ECE,3,I001,Dr. Ananya Gupta,Fall 2023,Completed,D
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CE140,Structural Analysis,CE,3,I004,Dr. Arjun Nair,Fall 2023,Completed,B+
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CE310,Geotechnical Engg,CE,3,I009,Dr. Vikram Rao,Fall 2023,Dropped,
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CSE201,Data Structures,CSE,4,I004,Dr. Arjun Nair,Fall 2023,Completed,D
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CSE210,Database Systems,CSE,3,I003,Prof. Kavita Sharma,Fall 2023,Completed,F
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,ECE110,Circuits I,ECE,4,I008,Prof. Priya Iyer,Fall 2023,Enrolled,
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,BIO270,Bioinformatics,BIO,3,I008,Prof. Priya Iyer,Fall 2023,Enrolled,
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,CHE280,Transport Phenomena,CHE,3,I002,Dr. Rahul Mehta,Fall 2023,Dropped,
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,CSE210,Database Systems,CSE,3,I007,Dr. Sameer Khan,Fall 2023,Enrolled,
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,EEE150,Power Systems,EEE,4,I001,Dr. Ananya Gupta,Fall 2023,Dropped,
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,ME310,Heat Transfer,ME,3,I003,Prof. Kavita Sharma,Fall 2023,Completed,U
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,BIO170,Genetics,BIO,3,I008,Prof. Priya Iyer,Fall 2023,Completed,A
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,BIO270,Bioinformatics,BIO,3,I004,Dr. Arjun Nair,Fall 2023,Completed,C
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,CSE201,Data Structures,CSE,4,I008,Prof. Priya Iyer,Fall 2023,Completed,B
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,BIO170,Genetics,BIO,3,I004,Dr. Arjun Nair,Fall 2023,Completed,A-
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,BIO270,Bioinformatics,BIO,3,I003,Prof. Kavita Sharma,Fall 2023,Completed,B-
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,CE310,Geotechnical Engg,CE,3,I008,Prof. Priya Iyer,Fall 2023,Completed,A-
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,ME310,Heat Transfer,ME,3,I009,Dr. Vikram Rao,Fall 2023,Completed,B
+S0051,Ananya Khan,Female,2001-03-21,BSc (Engg.),1,CE,Civil Engineering,Dr. Rahul Mehta,ananya.khan.s0051@college.ac.in,CE140,Structural Analysis,CE,3,I006,Dr. Neha Verma,Fall 2023,Completed,D
+S0051,Ananya Khan,Female,2001-03-21,BSc (Engg.),1,CE,Civil Engineering,Dr. Rahul Mehta,ananya.khan.s0051@college.ac.in,CE310,Geotechnical Engg,CE,3,I008,Prof. Priya Iyer,Fall 2023,Completed,C+
+S0051,Ananya Khan,Female,2001-03-21,BSc (Engg.),1,CE,Civil Engineering,Dr. Rahul Mehta,ananya.khan.s0051@college.ac.in,ME310,Heat Transfer,ME,3,I003,Prof. Kavita Sharma,Fall 2023,Enrolled,
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,CE140,Structural Analysis,CE,3,I004,Dr. Arjun Nair,Fall 2023,Completed,C+
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,CHE180,Process Calculations,CHE,4,I009,Dr. Vikram Rao,Fall 2023,Completed,B+
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,CHE280,Transport Phenomena,CHE,3,I010,Prof. Shweta Kulkarni,Fall 2023,Completed,C
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,IT160,Web Technologies,IT,3,I002,Dr. Rahul Mehta,Fall 2023,Completed,C+
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,ME120,Thermodynamics,ME,4,I001,Dr. Ananya Gupta,Fall 2023,Enrolled,
+S0056,Ananya Gupta,Other,2001-02-14,B.E.,3,CE,Civil Engineering,Dr. Vikram Rao,ananya.gupta.s0056@college.ac.in,CE140,Structural Analysis,CE,3,I009,Dr. Vikram Rao,Fall 2023,Dropped,
+S0056,Ananya Gupta,Other,2001-02-14,B.E.,3,CE,Civil Engineering,Dr. Vikram Rao,ananya.gupta.s0056@college.ac.in,CE310,Geotechnical Engg,CE,3,I007,Dr. Sameer Khan,Fall 2023,Completed,A-
+S0056,Ananya Gupta,Other,2001-02-14,B.E.,3,CE,Civil Engineering,Dr. Vikram Rao,ananya.gupta.s0056@college.ac.in,CSE101,Intro to Programming,CSE,4,I004,Dr. Arjun Nair,Fall 2023,Completed,B+
+S0056,Ananya Gupta,Other,2001-02-14,B.E.,3,CE,Civil Engineering,Dr. Vikram Rao,ananya.gupta.s0056@college.ac.in,IT260,Cloud Computing,IT,3,I007,Dr. Sameer Khan,Fall 2023,Enrolled,
+S0003,Myra Singh,Female,2006-01-25,B.Tech,4,CE,Civil Engineering,Dr. Neha Verma,myra.singh.s0003@college.ac.in,CE140,Structural Analysis,CE,3,I006,Dr. Neha Verma,Fall 2024,Enrolled,
+S0003,Myra Singh,Female,2006-01-25,B.Tech,4,CE,Civil Engineering,Dr. Neha Verma,myra.singh.s0003@college.ac.in,CE310,Geotechnical Engg,CE,3,I010,Prof. Shweta Kulkarni,Fall 2024,Completed,C
+S0003,Myra Singh,Female,2006-01-25,B.Tech,4,CE,Civil Engineering,Dr. Neha Verma,myra.singh.s0003@college.ac.in,CSE310,Operating Systems,CSE,4,I006,Dr. Neha Verma,Fall 2024,Enrolled,
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,EEE150,Power Systems,EEE,4,I001,Dr. Ananya Gupta,Fall 2024,Dropped,
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME120,Thermodynamics,ME,4,I009,Dr. Vikram Rao,Fall 2024,Enrolled,
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME230,Machine Design,ME,3,I005,Prof. R. Srinivas,Fall 2024,Enrolled,
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME310,Heat Transfer,ME,3,I005,Prof. R. Srinivas,Fall 2024,Completed,B+
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CSE101,Intro to Programming,CSE,4,I008,Prof. Priya Iyer,Fall 2024,Completed,A
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CSE210,Database Systems,CSE,3,I005,Prof. R. Srinivas,Fall 2024,Dropped,
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,IT260,Cloud Computing,IT,3,I008,Prof. Priya Iyer,Fall 2024,Enrolled,
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,IT260,Cloud Computing,IT,3,I002,Dr. Rahul Mehta,Fall 2024,Completed,A-
+S0012,Diya Singh,Male,2003-07-20,B.E.,3,ME,Mechanical Engineering,Dr. Vikram Rao,diya.singh.s0012@univ.edu,CSE201,Data Structures,CSE,4,I006,Dr. Neha Verma,Fall 2024,Completed,D
+S0012,Diya Singh,Male,2003-07-20,B.E.,3,ME,Mechanical Engineering,Dr. Vikram Rao,diya.singh.s0012@univ.edu,CSE310,Operating Systems,CSE,4,I003,Prof. Kavita Sharma,Fall 2024,Completed,S
+S0012,Diya Singh,Male,2003-07-20,B.E.,3,ME,Mechanical Engineering,Dr. Vikram Rao,diya.singh.s0012@univ.edu,IT160,Web Technologies,IT,3,I003,Prof. Kavita Sharma,Fall 2024,Completed,A
+S0012,Diya Singh,Male,2003-07-20,B.E.,3,ME,Mechanical Engineering,Dr. Vikram Rao,diya.singh.s0012@univ.edu,ME230,Machine Design,ME,3,I007,Dr. Sameer Khan,Fall 2024,Dropped,
+S0012,Diya Singh,Male,2003-07-20,B.E.,3,ME,Mechanical Engineering,Dr. Vikram Rao,diya.singh.s0012@univ.edu,ME310,Heat Transfer,ME,3,I006,Dr. Neha Verma,Fall 2024,Completed,C
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,ECE110,Circuits I,ECE,4,I002,Dr. Rahul Mehta,Fall 2024,Completed,C
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,ECE220,Signals & Systems,ECE,3,I009,Dr. Vikram Rao,Fall 2024,Completed,U
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,ECE310,Digital Communication,ECE,3,I003,Prof. Kavita Sharma,Fall 2024,Enrolled,
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,IT160,Web Technologies,IT,3,I010,Prof. Shweta Kulkarni,Fall 2024,Completed,D
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,CE140,Structural Analysis,CE,3,I005,Prof. R. Srinivas,Fall 2024,Enrolled,
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,ECE110,Circuits I,ECE,4,I005,Prof. R. Srinivas,Fall 2024,Dropped,
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,EEE150,Power Systems,EEE,4,I007,Dr. Sameer Khan,Fall 2024,Completed,S
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME120,Thermodynamics,ME,4,I005,Prof. R. Srinivas,Fall 2024,Completed,U
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME230,Machine Design,ME,3,I006,Dr. Neha Verma,Fall 2024,Enrolled,
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME310,Heat Transfer,ME,3,I006,Dr. Neha Verma,Fall 2024,Completed,U
+S0016,Vivaan Mehta,Other,2000-02-24,B.E.,1,CE,Civil Engineering,Dr. Vikram Rao,vivaan.mehta.s0016@univ.edu,CE140,Structural Analysis,CE,3,I007,Dr. Sameer Khan,Fall 2024,Completed,U
+S0016,Vivaan Mehta,Other,2000-02-24,B.E.,1,CE,Civil Engineering,Dr. Vikram Rao,vivaan.mehta.s0016@univ.edu,CE310,Geotechnical Engg,CE,3,I009,Dr. Vikram Rao,Fall 2024,Completed,B+
+S0016,Vivaan Mehta,Other,2000-02-24,B.E.,1,CE,Civil Engineering,Dr. Vikram Rao,vivaan.mehta.s0016@univ.edu,ECE220,Signals & Systems,ECE,3,I010,Prof. Shweta Kulkarni,Fall 2024,Completed,B-
+S0016,Vivaan Mehta,Other,2000-02-24,B.E.,1,CE,Civil Engineering,Dr. Vikram Rao,vivaan.mehta.s0016@univ.edu,ME310,Heat Transfer,ME,3,I007,Dr. Sameer Khan,Fall 2024,Completed,D
+S0017,Aarohi Patel,Male,2002-09-28,BSc (Engg.),4,ME,Mechanical Engineering,Dr. Arjun Nair,aarohi.patel.s0017@campus.edu.in,ME120,Thermodynamics,ME,4,I006,Dr. Neha Verma,Fall 2024,Completed,U
+S0017,Aarohi Patel,Male,2002-09-28,BSc (Engg.),4,ME,Mechanical Engineering,Dr. Arjun Nair,aarohi.patel.s0017@campus.edu.in,ME230,Machine Design,ME,3,I002,Dr. Rahul Mehta,Fall 2024,Dropped,
+S0017,Aarohi Patel,Male,2002-09-28,BSc (Engg.),4,ME,Mechanical Engineering,Dr. Arjun Nair,aarohi.patel.s0017@campus.edu.in,ME310,Heat Transfer,ME,3,I006,Dr. Neha Verma,Fall 2024,Enrolled,
+S0019,Aditya Rao,Male,2004-09-08,BSc (Engg.),2,CE,Civil Engineering,Dr. Ananya Gupta,aditya.rao.s0019@univ.edu,CE140,Structural Analysis,CE,3,I009,Dr. Vikram Rao,Fall 2024,Completed,D
+S0019,Aditya Rao,Male,2004-09-08,BSc (Engg.),2,CE,Civil Engineering,Dr. Ananya Gupta,aditya.rao.s0019@univ.edu,CE310,Geotechnical Engg,CE,3,I008,Prof. Priya Iyer,Fall 2024,Completed,C+
+S0019,Aditya Rao,Male,2004-09-08,BSc (Engg.),2,CE,Civil Engineering,Dr. Ananya Gupta,aditya.rao.s0019@univ.edu,CSE210,Database Systems,CSE,3,I009,Dr. Vikram Rao,Fall 2024,Enrolled,
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,CSE101,Intro to Programming,CSE,4,I007,Dr. Sameer Khan,Fall 2024,Completed,B
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,CSE310,Operating Systems,CSE,4,I002,Dr. Rahul Mehta,Fall 2024,Completed,U
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,CSE320,Computer Networks,CSE,3,I009,Dr. Vikram Rao,Fall 2024,Completed,B
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,ECE310,Digital Communication,ECE,3,I007,Dr. Sameer Khan,Fall 2024,Completed,D
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,CHE280,Transport Phenomena,CHE,3,I010,Prof. Shweta Kulkarni,Fall 2024,Enrolled,
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,CSE310,Operating Systems,CSE,4,I001,Dr. Ananya Gupta,Fall 2024,Enrolled,
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,CSE320,Computer Networks,CSE,3,I010,Prof. Shweta Kulkarni,Fall 2024,Enrolled,
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,ECE110,Circuits I,ECE,4,I006,Dr. Neha Verma,Fall 2024,Enrolled,
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,ECE310,Digital Communication,ECE,3,I005,Prof. R. Srinivas,Fall 2024,Completed,S
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME120,Thermodynamics,ME,4,I002,Dr. Rahul Mehta,Fall 2024,Completed,B-
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME230,Machine Design,ME,3,I007,Dr. Sameer Khan,Fall 2024,Completed,F
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME310,Heat Transfer,ME,3,I007,Dr. Sameer Khan,Fall 2024,Completed,B
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,BIO170,Genetics,BIO,3,I003,Prof. Kavita Sharma,Fall 2024,Completed,B+
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,CSE101,Intro to Programming,CSE,4,I006,Dr. Neha Verma,Fall 2024,Completed,U
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,CSE320,Computer Networks,CSE,3,I009,Dr. Vikram Rao,Fall 2024,Enrolled,
+S0027,Arjun Mehta,Female,2001-01-19,BSc (Engg.),1,CHE,Chemical Engineering,Dr. Neha Verma,arjun.mehta.s0027@univ.edu,CHE180,Process Calculations,CHE,4,I002,Dr. Rahul Mehta,Fall 2024,Completed,C
+S0027,Arjun Mehta,Female,2001-01-19,BSc (Engg.),1,CHE,Chemical Engineering,Dr. Neha Verma,arjun.mehta.s0027@univ.edu,CHE280,Transport Phenomena,CHE,3,I006,Dr. Neha Verma,Fall 2024,Enrolled,
+S0027,Arjun Mehta,Female,2001-01-19,BSc (Engg.),1,CHE,Chemical Engineering,Dr. Neha Verma,arjun.mehta.s0027@univ.edu,CSE201,Data Structures,CSE,4,I010,Prof. Shweta Kulkarni,Fall 2024,Completed,C+
+S0027,Arjun Mehta,Female,2001-01-19,BSc (Engg.),1,CHE,Chemical Engineering,Dr. Neha Verma,arjun.mehta.s0027@univ.edu,IT260,Cloud Computing,IT,3,I005,Prof. R. Srinivas,Fall 2024,Completed,U
+S0029,Muhammad Iyer,Male,2004-04-19,BSc (Engg.),1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,muhammad.iyer.s0029@univ.edu,ECE110,Circuits I,ECE,4,I005,Prof. R. Srinivas,Fall 2024,Completed,A-
+S0029,Muhammad Iyer,Male,2004-04-19,BSc (Engg.),1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,muhammad.iyer.s0029@univ.edu,ECE220,Signals & Systems,ECE,3,I003,Prof. Kavita Sharma,Fall 2024,Enrolled,
+S0029,Muhammad Iyer,Male,2004-04-19,BSc (Engg.),1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,muhammad.iyer.s0029@univ.edu,ECE310,Digital Communication,ECE,3,I009,Dr. Vikram Rao,Fall 2024,Completed,F
+S0032,Siya Reddy,Male,2002-02-08,B.E.,3,CE,Civil Engineering,Prof. Kavita Sharma,siya.reddy.s0032@college.ac.in,CE140,Structural Analysis,CE,3,I003,Prof. Kavita Sharma,Fall 2024,Completed,A-
+S0032,Siya Reddy,Male,2002-02-08,B.E.,3,CE,Civil Engineering,Prof. Kavita Sharma,siya.reddy.s0032@college.ac.in,CE310,Geotechnical Engg,CE,3,I009,Dr. Vikram Rao,Fall 2024,Dropped,
+S0032,Siya Reddy,Male,2002-02-08,B.E.,3,CE,Civil Engineering,Prof. Kavita Sharma,siya.reddy.s0032@college.ac.in,CHE280,Transport Phenomena,CHE,3,I009,Dr. Vikram Rao,Fall 2024,Completed,F
+S0032,Siya Reddy,Male,2002-02-08,B.E.,3,CE,Civil Engineering,Prof. Kavita Sharma,siya.reddy.s0032@college.ac.in,EEE150,Power Systems,EEE,4,I002,Dr. Rahul Mehta,Fall 2024,Dropped,
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,BIO270,Bioinformatics,BIO,3,I008,Prof. Priya Iyer,Fall 2024,Completed,C+
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,CSE201,Data Structures,CSE,4,I006,Dr. Neha Verma,Fall 2024,Dropped,
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,ECE220,Signals & Systems,ECE,3,I002,Dr. Rahul Mehta,Fall 2024,Completed,C
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,ECE310,Digital Communication,ECE,3,I007,Dr. Sameer Khan,Fall 2024,Completed,C
+S0034,Vihaan Patel,Male,2002-05-20,B.Tech,3,ECE,Electronics & Communication Engineering,Dr. Arjun Nair,vihaan.patel.s0034@campus.edu.in,IT260,Cloud Computing,IT,3,I009,Dr. Vikram Rao,Fall 2024,Completed,A-
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CSE201,Data Structures,CSE,4,I008,Prof. Priya Iyer,Fall 2024,Enrolled,
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CSE210,Database Systems,CSE,3,I004,Dr. Arjun Nair,Fall 2024,Completed,B
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,ECE220,Signals & Systems,ECE,3,I009,Dr. Vikram Rao,Fall 2024,Completed,D
+S0039,Navya Gupta,Male,2006-03-26,B.Tech,4,BIO,Biotechnology,Dr. Ananya Gupta,navya.gupta.s0039@univ.edu,BIO170,Genetics,BIO,3,I008,Prof. Priya Iyer,Fall 2024,Completed,D
+S0039,Navya Gupta,Male,2006-03-26,B.Tech,4,BIO,Biotechnology,Dr. Ananya Gupta,navya.gupta.s0039@univ.edu,BIO270,Bioinformatics,BIO,3,I001,Dr. Ananya Gupta,Fall 2024,Enrolled,
+S0039,Navya Gupta,Male,2006-03-26,B.Tech,4,BIO,Biotechnology,Dr. Ananya Gupta,navya.gupta.s0039@univ.edu,CSE320,Computer Networks,CSE,3,I001,Dr. Ananya Gupta,Fall 2024,Completed,S
+S0039,Navya Gupta,Male,2006-03-26,B.Tech,4,BIO,Biotechnology,Dr. Ananya Gupta,navya.gupta.s0039@univ.edu,ECE310,Digital Communication,ECE,3,I007,Dr. Sameer Khan,Fall 2024,Completed,B
+S0039,Navya Gupta,Male,2006-03-26,B.Tech,4,BIO,Biotechnology,Dr. Ananya Gupta,navya.gupta.s0039@univ.edu,ME310,Heat Transfer,ME,3,I004,Dr. Arjun Nair,Fall 2024,Completed,A
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,CE310,Geotechnical Engg,CE,3,I003,Prof. Kavita Sharma,Fall 2024,Enrolled,
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,CSE320,Computer Networks,CSE,3,I009,Dr. Vikram Rao,Fall 2024,Dropped,
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,IT160,Web Technologies,IT,3,I005,Prof. R. Srinivas,Fall 2024,Completed,S
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,IT260,Cloud Computing,IT,3,I010,Prof. Shweta Kulkarni,Fall 2024,Enrolled,
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,ME310,Heat Transfer,ME,3,I002,Dr. Rahul Mehta,Fall 2024,Completed,C+
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,BIO170,Genetics,BIO,3,I010,Prof. Shweta Kulkarni,Fall 2024,Completed,F
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,BIO270,Bioinformatics,BIO,3,I010,Prof. Shweta Kulkarni,Fall 2024,Completed,A
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,CE140,Structural Analysis,CE,3,I001,Dr. Ananya Gupta,Fall 2024,Completed,B-
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,CE310,Geotechnical Engg,CE,3,I007,Dr. Sameer Khan,Fall 2024,Completed,U
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,ECE110,Circuits I,ECE,4,I010,Prof. Shweta Kulkarni,Fall 2024,Completed,C
+S0042,Aditya Reddy,Female,2005-09-13,BSc (Engg.),3,EEE,Electrical & Electronics Engineering,Dr. Ananya Gupta,aditya.reddy.s0042@univ.edu,CSE320,Computer Networks,CSE,3,I003,Prof. Kavita Sharma,Fall 2024,Completed,B-
+S0042,Aditya Reddy,Female,2005-09-13,BSc (Engg.),3,EEE,Electrical & Electronics Engineering,Dr. Ananya Gupta,aditya.reddy.s0042@univ.edu,EEE150,Power Systems,EEE,4,I006,Dr. Neha Verma,Fall 2024,Completed,F
+S0042,Aditya Reddy,Female,2005-09-13,BSc (Engg.),3,EEE,Electrical & Electronics Engineering,Dr. Ananya Gupta,aditya.reddy.s0042@univ.edu,IT260,Cloud Computing,IT,3,I005,Prof. R. Srinivas,Fall 2024,Completed,S
+S0042,Aditya Reddy,Female,2005-09-13,BSc (Engg.),3,EEE,Electrical & Electronics Engineering,Dr. Ananya Gupta,aditya.reddy.s0042@univ.edu,IT260,Cloud Computing,IT,3,I009,Dr. Vikram Rao,Fall 2024,Completed,C
+S0042,Aditya Reddy,Female,2005-09-13,BSc (Engg.),3,EEE,Electrical & Electronics Engineering,Dr. Ananya Gupta,aditya.reddy.s0042@univ.edu,ME230,Machine Design,ME,3,I006,Dr. Neha Verma,Fall 2024,Dropped,
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,CSE101,Intro to Programming,CSE,4,I006,Dr. Neha Verma,Fall 2024,Completed,A
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,ECE220,Signals & Systems,ECE,3,I008,Prof. Priya Iyer,Fall 2024,Completed,B-
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,EEE150,Power Systems,EEE,4,I003,Prof. Kavita Sharma,Fall 2024,Completed,D
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,ME310,Heat Transfer,ME,3,I002,Dr. Rahul Mehta,Fall 2024,Completed,B
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,CHE280,Transport Phenomena,CHE,3,I008,Prof. Priya Iyer,Fall 2024,Completed,C+
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE110,Circuits I,ECE,4,I001,Dr. Ananya Gupta,Fall 2024,Completed,B
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE220,Signals & Systems,ECE,3,I003,Prof. Kavita Sharma,Fall 2024,Dropped,
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE310,Digital Communication,ECE,3,I008,Prof. Priya Iyer,Fall 2024,Completed,B
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ME120,Thermodynamics,ME,4,I005,Prof. R. Srinivas,Fall 2024,Completed,S
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CE140,Structural Analysis,CE,3,I003,Prof. Kavita Sharma,Fall 2024,Completed,S
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CE310,Geotechnical Engg,CE,3,I006,Dr. Neha Verma,Fall 2024,Completed,F
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CSE320,Computer Networks,CSE,3,I004,Dr. Arjun Nair,Fall 2024,Completed,U
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,ECE220,Signals & Systems,ECE,3,I008,Prof. Priya Iyer,Fall 2024,Completed,U
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,BIO170,Genetics,BIO,3,I007,Dr. Sameer Khan,Fall 2024,Enrolled,
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,BIO270,Bioinformatics,BIO,3,I009,Dr. Vikram Rao,Fall 2024,Completed,C
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,CHE180,Process Calculations,CHE,4,I009,Dr. Vikram Rao,Fall 2024,Completed,B
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,CHE280,Transport Phenomena,CHE,3,I005,Prof. R. Srinivas,Fall 2024,Completed,B+
+S0048,Anika Singh,Other,2002-08-15,B.E.,2,BIO,Biotechnology,Dr. Vikram Rao,anika.singh.s0048@college.ac.in,CSE201,Data Structures,CSE,4,I007,Dr. Sameer Khan,Fall 2024,Enrolled,
+S0049,Aditya Reddy,Other,2005-11-20,B.E.,1,ME,Mechanical Engineering,Dr. Arjun Nair,aditya.reddy.s0049@campus.edu.in,ECE310,Digital Communication,ECE,3,I004,Dr. Arjun Nair,Fall 2024,Dropped,
+S0049,Aditya Reddy,Other,2005-11-20,B.E.,1,ME,Mechanical Engineering,Dr. Arjun Nair,aditya.reddy.s0049@campus.edu.in,EEE150,Power Systems,EEE,4,I001,Dr. Ananya Gupta,Fall 2024,Enrolled,
+S0049,Aditya Reddy,Other,2005-11-20,B.E.,1,ME,Mechanical Engineering,Dr. Arjun Nair,aditya.reddy.s0049@campus.edu.in,ME120,Thermodynamics,ME,4,I004,Dr. Arjun Nair,Fall 2024,Completed,C+
+S0049,Aditya Reddy,Other,2005-11-20,B.E.,1,ME,Mechanical Engineering,Dr. Arjun Nair,aditya.reddy.s0049@campus.edu.in,ME310,Heat Transfer,ME,3,I005,Prof. R. Srinivas,Fall 2024,Dropped,
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,BIO270,Bioinformatics,BIO,3,I001,Dr. Ananya Gupta,Fall 2024,Enrolled,
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CE140,Structural Analysis,CE,3,I005,Prof. R. Srinivas,Fall 2024,Completed,A-
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CE310,Geotechnical Engg,CE,3,I006,Dr. Neha Verma,Fall 2024,Dropped,
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,ECE310,Digital Communication,ECE,3,I008,Prof. Priya Iyer,Fall 2024,Completed,B
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,IT160,Web Technologies,IT,3,I005,Prof. R. Srinivas,Fall 2024,Completed,A-
+S0057,Vivaan Mehta,Female,2003-10-23,B.Tech,4,BIO,Biotechnology,Prof. Priya Iyer,vivaan.mehta.s0057@univ.edu,BIO170,Genetics,BIO,3,I007,Dr. Sameer Khan,Fall 2024,Completed,A-
+S0057,Vivaan Mehta,Female,2003-10-23,B.Tech,4,BIO,Biotechnology,Prof. Priya Iyer,vivaan.mehta.s0057@univ.edu,BIO270,Bioinformatics,BIO,3,I006,Dr. Neha Verma,Fall 2024,Completed,B
+S0057,Vivaan Mehta,Female,2003-10-23,B.Tech,4,BIO,Biotechnology,Prof. Priya Iyer,vivaan.mehta.s0057@univ.edu,CSE310,Operating Systems,CSE,4,I008,Prof. Priya Iyer,Fall 2024,Completed,B
+S0057,Vivaan Mehta,Female,2003-10-23,B.Tech,4,BIO,Biotechnology,Prof. Priya Iyer,vivaan.mehta.s0057@univ.edu,EEE150,Power Systems,EEE,4,I008,Prof. Priya Iyer,Fall 2024,Enrolled,
+S0058,Kabir Iyer,Female,2004-12-24,BSc (Engg.),2,IT,Information Technology,Prof. Priya Iyer,kabir.iyer.s0058@univ.edu,CHE180,Process Calculations,CHE,4,I008,Prof. Priya Iyer,Fall 2024,Dropped,
+S0058,Kabir Iyer,Female,2004-12-24,BSc (Engg.),2,IT,Information Technology,Prof. Priya Iyer,kabir.iyer.s0058@univ.edu,CHE280,Transport Phenomena,CHE,3,I001,Dr. Ananya Gupta,Fall 2024,Dropped,
+S0058,Kabir Iyer,Female,2004-12-24,BSc (Engg.),2,IT,Information Technology,Prof. Priya Iyer,kabir.iyer.s0058@univ.edu,EEE150,Power Systems,EEE,4,I003,Prof. Kavita Sharma,Fall 2024,Completed,F
+S0058,Kabir Iyer,Female,2004-12-24,BSc (Engg.),2,IT,Information Technology,Prof. Priya Iyer,kabir.iyer.s0058@univ.edu,IT160,Web Technologies,IT,3,I004,Dr. Arjun Nair,Fall 2024,Completed,F
+S0058,Kabir Iyer,Female,2004-12-24,BSc (Engg.),2,IT,Information Technology,Prof. Priya Iyer,kabir.iyer.s0058@univ.edu,IT260,Cloud Computing,IT,3,I002,Dr. Rahul Mehta,Fall 2024,Dropped,
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,BIO170,Genetics,BIO,3,I008,Prof. Priya Iyer,Fall 2024,Completed,A-
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ECE110,Circuits I,ECE,4,I008,Prof. Priya Iyer,Fall 2024,Completed,F
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ECE310,Digital Communication,ECE,3,I003,Prof. Kavita Sharma,Fall 2024,Completed,C+
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ME120,Thermodynamics,ME,4,I002,Dr. Rahul Mehta,Fall 2024,Enrolled,
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ME230,Machine Design,ME,3,I007,Dr. Sameer Khan,Fall 2024,Dropped,
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,CSE320,Computer Networks,CSE,3,I004,Dr. Arjun Nair,Fall 2025,Enrolled,
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME120,Thermodynamics,ME,4,I002,Dr. Rahul Mehta,Fall 2025,Completed,B+
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME230,Machine Design,ME,3,I005,Prof. R. Srinivas,Fall 2025,Completed,B
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME310,Heat Transfer,ME,3,I002,Dr. Rahul Mehta,Fall 2025,Completed,C+
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CHE280,Transport Phenomena,CHE,3,I003,Prof. Kavita Sharma,Fall 2025,Completed,B+
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CSE101,Intro to Programming,CSE,4,I004,Dr. Arjun Nair,Fall 2025,Completed,B-
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CSE210,Database Systems,CSE,3,I002,Dr. Rahul Mehta,Fall 2025,Dropped,
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CSE320,Computer Networks,CSE,3,I002,Dr. Rahul Mehta,Fall 2025,Enrolled,
+S0008,Ira Mehta,Male,2003-07-09,BSc (Engg.),2,ME,Mechanical Engineering,Dr. Neha Verma,ira.mehta.s0008@univ.edu,ME120,Thermodynamics,ME,4,I005,Prof. R. Srinivas,Fall 2025,Completed,B+
+S0008,Ira Mehta,Male,2003-07-09,BSc (Engg.),2,ME,Mechanical Engineering,Dr. Neha Verma,ira.mehta.s0008@univ.edu,ME230,Machine Design,ME,3,I010,Prof. Shweta Kulkarni,Fall 2025,Completed,A
+S0008,Ira Mehta,Male,2003-07-09,BSc (Engg.),2,ME,Mechanical Engineering,Dr. Neha Verma,ira.mehta.s0008@univ.edu,ME310,Heat Transfer,ME,3,I001,Dr. Ananya Gupta,Fall 2025,Enrolled,
+S0009,Vivaan Rao,Female,2002-02-07,BSc (Engg.),3,CE,Civil Engineering,Dr. Arjun Nair,vivaan.rao.s0009@campus.edu.in,CE140,Structural Analysis,CE,3,I002,Dr. Rahul Mehta,Fall 2025,Completed,C+
+S0009,Vivaan Rao,Female,2002-02-07,BSc (Engg.),3,CE,Civil Engineering,Dr. Arjun Nair,vivaan.rao.s0009@campus.edu.in,CE310,Geotechnical Engg,CE,3,I006,Dr. Neha Verma,Fall 2025,Completed,C+
+S0009,Vivaan Rao,Female,2002-02-07,BSc (Engg.),3,CE,Civil Engineering,Dr. Arjun Nair,vivaan.rao.s0009@campus.edu.in,CSE210,Database Systems,CSE,3,I007,Dr. Sameer Khan,Fall 2025,Completed,B-
+S0009,Vivaan Rao,Female,2002-02-07,BSc (Engg.),3,CE,Civil Engineering,Dr. Arjun Nair,vivaan.rao.s0009@campus.edu.in,CSE320,Computer Networks,CSE,3,I007,Dr. Sameer Khan,Fall 2025,Completed,F
+S0010,Ananya Khan,Male,2002-03-08,BSc (Engg.),3,CHE,Chemical Engineering,Prof. Shweta Kulkarni,ananya.khan.s0010@college.ac.in,CHE180,Process Calculations,CHE,4,I005,Prof. R. Srinivas,Fall 2025,Completed,D
+S0010,Ananya Khan,Male,2002-03-08,BSc (Engg.),3,CHE,Chemical Engineering,Prof. Shweta Kulkarni,ananya.khan.s0010@college.ac.in,CHE280,Transport Phenomena,CHE,3,I009,Dr. Vikram Rao,Fall 2025,Enrolled,
+S0010,Ananya Khan,Male,2002-03-08,BSc (Engg.),3,CHE,Chemical Engineering,Prof. Shweta Kulkarni,ananya.khan.s0010@college.ac.in,EEE150,Power Systems,EEE,4,I010,Prof. Shweta Kulkarni,Fall 2025,Completed,B+
+S0010,Ananya Khan,Male,2002-03-08,BSc (Engg.),3,CHE,Chemical Engineering,Prof. Shweta Kulkarni,ananya.khan.s0010@college.ac.in,ME230,Machine Design,ME,3,I002,Dr. Rahul Mehta,Fall 2025,Enrolled,
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,BIO170,Genetics,BIO,3,I003,Prof. Kavita Sharma,Fall 2025,Completed,B-
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,BIO270,Bioinformatics,BIO,3,I009,Dr. Vikram Rao,Fall 2025,Completed,C
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,CSE320,Computer Networks,CSE,3,I004,Dr. Arjun Nair,Fall 2025,Completed,B+
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,ECE110,Circuits I,ECE,4,I008,Prof. Priya Iyer,Fall 2025,Dropped,
+S0011,Aadhya Mehta,Male,2004-08-03,B.Tech,1,BIO,Biotechnology,Prof. Kavita Sharma,aadhya.mehta.s0011@campus.edu.in,ECE110,Circuits I,ECE,4,I007,Dr. Sameer Khan,Fall 2025,Enrolled,
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,CSE320,Computer Networks,CSE,3,I008,Prof. Priya Iyer,Fall 2025,Dropped,
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,ECE110,Circuits I,ECE,4,I001,Dr. Ananya Gupta,Fall 2025,Dropped,
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,ECE220,Signals & Systems,ECE,3,I008,Prof. Priya Iyer,Fall 2025,Dropped,
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,IT260,Cloud Computing,IT,3,I009,Dr. Vikram Rao,Fall 2025,Enrolled,
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,IT260,Cloud Computing,IT,3,I010,Prof. Shweta Kulkarni,Fall 2025,Completed,C
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,CSE320,Computer Networks,CSE,3,I009,Dr. Vikram Rao,Fall 2025,Completed,C
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME120,Thermodynamics,ME,4,I007,Dr. Sameer Khan,Fall 2025,Dropped,
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME230,Machine Design,ME,3,I002,Dr. Rahul Mehta,Fall 2025,Enrolled,
+S0015,Ira Patel,Male,2004-06-16,B.Tech,1,ME,Mechanical Engineering,Dr. Neha Verma,ira.patel.s0015@college.ac.in,ME310,Heat Transfer,ME,3,I004,Dr. Arjun Nair,Fall 2025,Completed,U
+S0021,Reyansh Patel,Male,2005-10-19,B.E.,2,CHE,Chemical Engineering,Prof. Priya Iyer,reyansh.patel.s0021@college.ac.in,BIO170,Genetics,BIO,3,I002,Dr. Rahul Mehta,Fall 2025,Completed,B
+S0021,Reyansh Patel,Male,2005-10-19,B.E.,2,CHE,Chemical Engineering,Prof. Priya Iyer,reyansh.patel.s0021@college.ac.in,CHE180,Process Calculations,CHE,4,I007,Dr. Sameer Khan,Fall 2025,Completed,A
+S0021,Reyansh Patel,Male,2005-10-19,B.E.,2,CHE,Chemical Engineering,Prof. Priya Iyer,reyansh.patel.s0021@college.ac.in,CHE280,Transport Phenomena,CHE,3,I005,Prof. R. Srinivas,Fall 2025,Completed,C+
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,ECE110,Circuits I,ECE,4,I006,Dr. Neha Verma,Fall 2025,Completed,B-
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,ECE220,Signals & Systems,ECE,3,I010,Prof. Shweta Kulkarni,Fall 2025,Completed,B-
+S0023,Vivaan Iyer,Other,2002-02-08,B.Tech,2,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,vivaan.iyer.s0023@college.ac.in,ECE310,Digital Communication,ECE,3,I004,Dr. Arjun Nair,Fall 2025,Completed,A-
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,CSE101,Intro to Programming,CSE,4,I003,Prof. Kavita Sharma,Fall 2025,Completed,B
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,CSE201,Data Structures,CSE,4,I008,Prof. Priya Iyer,Fall 2025,Completed,B+
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME120,Thermodynamics,ME,4,I004,Dr. Arjun Nair,Fall 2025,Completed,B
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME230,Machine Design,ME,3,I006,Dr. Neha Verma,Fall 2025,Enrolled,
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME310,Heat Transfer,ME,3,I003,Prof. Kavita Sharma,Fall 2025,Completed,B-
+S0028,Anika Khan,Other,2006-09-06,B.Tech,1,CSE,Computer Science & Engineering,Prof. Kavita Sharma,anika.khan.s0028@univ.edu,CHE180,Process Calculations,CHE,4,I006,Dr. Neha Verma,Fall 2025,Completed,U
+S0028,Anika Khan,Other,2006-09-06,B.Tech,1,CSE,Computer Science & Engineering,Prof. Kavita Sharma,anika.khan.s0028@univ.edu,CHE180,Process Calculations,CHE,4,I007,Dr. Sameer Khan,Fall 2025,Completed,A
+S0028,Anika Khan,Other,2006-09-06,B.Tech,1,CSE,Computer Science & Engineering,Prof. Kavita Sharma,anika.khan.s0028@univ.edu,CHE280,Transport Phenomena,CHE,3,I009,Dr. Vikram Rao,Fall 2025,Enrolled,
+S0028,Anika Khan,Other,2006-09-06,B.Tech,1,CSE,Computer Science & Engineering,Prof. Kavita Sharma,anika.khan.s0028@univ.edu,CSE210,Database Systems,CSE,3,I007,Dr. Sameer Khan,Fall 2025,Enrolled,
+S0028,Anika Khan,Other,2006-09-06,B.Tech,1,CSE,Computer Science & Engineering,Prof. Kavita Sharma,anika.khan.s0028@univ.edu,CSE320,Computer Networks,CSE,3,I002,Dr. Rahul Mehta,Fall 2025,Completed,C
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,BIO170,Genetics,BIO,3,I007,Dr. Sameer Khan,Fall 2025,Enrolled,
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,BIO270,Bioinformatics,BIO,3,I009,Dr. Vikram Rao,Fall 2025,Completed,C
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,CHE180,Process Calculations,CHE,4,I002,Dr. Rahul Mehta,Fall 2025,Completed,A
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,CSE101,Intro to Programming,CSE,4,I006,Dr. Neha Verma,Fall 2025,Dropped,
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,CE310,Geotechnical Engg,CE,3,I003,Prof. Kavita Sharma,Fall 2025,Completed,C
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,CSE210,Database Systems,CSE,3,I002,Dr. Rahul Mehta,Fall 2025,Enrolled,
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,CSE310,Operating Systems,CSE,4,I006,Dr. Neha Verma,Fall 2025,Completed,B
+S0035,Siya Khan,Female,2006-01-03,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. R. Srinivas,siya.khan.s0035@univ.edu,EEE150,Power Systems,EEE,4,I003,Prof. Kavita Sharma,Fall 2025,Completed,C
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,BIO170,Genetics,BIO,3,I009,Dr. Vikram Rao,Fall 2025,Dropped,
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,CE140,Structural Analysis,CE,3,I002,Dr. Rahul Mehta,Fall 2025,Completed,U
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,ECE110,Circuits I,ECE,4,I003,Prof. Kavita Sharma,Fall 2025,Completed,B
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,ECE310,Digital Communication,ECE,3,I006,Dr. Neha Verma,Fall 2025,Dropped,
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,BIO270,Bioinformatics,BIO,3,I010,Prof. Shweta Kulkarni,Fall 2025,Completed,B-
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,CSE201,Data Structures,CSE,4,I003,Prof. Kavita Sharma,Fall 2025,Completed,S
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,ECE220,Signals & Systems,ECE,3,I006,Dr. Neha Verma,Fall 2025,Enrolled,
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,IT160,Web Technologies,IT,3,I008,Prof. Priya Iyer,Fall 2025,Completed,B+
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,IT260,Cloud Computing,IT,3,I010,Prof. Shweta Kulkarni,Fall 2025,Dropped,
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,BIO170,Genetics,BIO,3,I005,Prof. R. Srinivas,Fall 2025,Completed,B
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,CE140,Structural Analysis,CE,3,I008,Prof. Priya Iyer,Fall 2025,Completed,C+
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,CE310,Geotechnical Engg,CE,3,I003,Prof. Kavita Sharma,Fall 2025,Completed,F
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,ME310,Heat Transfer,ME,3,I006,Dr. Neha Verma,Fall 2025,Completed,U
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CE140,Structural Analysis,CE,3,I009,Dr. Vikram Rao,Fall 2025,Completed,S
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,CE310,Geotechnical Engg,CE,3,I001,Dr. Ananya Gupta,Fall 2025,Completed,U
+S0045,Aadhya Iyer,Male,2005-06-20,B.E.,1,CE,Civil Engineering,Prof. R. Srinivas,aadhya.iyer.s0045@campus.edu.in,ECE220,Signals & Systems,ECE,3,I005,Prof. R. Srinivas,Fall 2025,Completed,C
+S0053,Myra Singh,Other,2004-07-27,BSc (Engg.),4,IT,Information Technology,Prof. Kavita Sharma,myra.singh.s0053@campus.edu.in,EEE150,Power Systems,EEE,4,I010,Prof. Shweta Kulkarni,Fall 2025,Completed,B+
+S0053,Myra Singh,Other,2004-07-27,BSc (Engg.),4,IT,Information Technology,Prof. Kavita Sharma,myra.singh.s0053@campus.edu.in,IT160,Web Technologies,IT,3,I001,Dr. Ananya Gupta,Fall 2025,Dropped,
+S0053,Myra Singh,Other,2004-07-27,BSc (Engg.),4,IT,Information Technology,Prof. Kavita Sharma,myra.singh.s0053@campus.edu.in,IT260,Cloud Computing,IT,3,I005,Prof. R. Srinivas,Fall 2025,Dropped,
+S0057,Vivaan Mehta,Female,2003-10-23,B.Tech,4,BIO,Biotechnology,Prof. Priya Iyer,vivaan.mehta.s0057@univ.edu,BIO170,Genetics,BIO,3,I010,Prof. Shweta Kulkarni,Fall 2025,Enrolled,
+S0057,Vivaan Mehta,Female,2003-10-23,B.Tech,4,BIO,Biotechnology,Prof. Priya Iyer,vivaan.mehta.s0057@univ.edu,BIO270,Bioinformatics,BIO,3,I008,Prof. Priya Iyer,Fall 2025,Completed,U
+S0057,Vivaan Mehta,Female,2003-10-23,B.Tech,4,BIO,Biotechnology,Prof. Priya Iyer,vivaan.mehta.s0057@univ.edu,CHE280,Transport Phenomena,CHE,3,I006,Dr. Neha Verma,Fall 2025,Completed,B
+S0057,Vivaan Mehta,Female,2003-10-23,B.Tech,4,BIO,Biotechnology,Prof. Priya Iyer,vivaan.mehta.s0057@univ.edu,IT260,Cloud Computing,IT,3,I008,Prof. Priya Iyer,Fall 2025,Completed,C
+S0001,Aarav Reddy,Male,2001-03-24,B.Tech,1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,aarav.reddy.s0001@college.ac.in,BIO270,Bioinformatics,BIO,3,I005,Prof. R. Srinivas,Spring 2024,Completed,D
+S0001,Aarav Reddy,Male,2001-03-24,B.Tech,1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,aarav.reddy.s0001@college.ac.in,ECE220,Signals & Systems,ECE,3,I004,Dr. Arjun Nair,Spring 2024,Completed,C+
+S0001,Aarav Reddy,Male,2001-03-24,B.Tech,1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,aarav.reddy.s0001@college.ac.in,ECE310,Digital Communication,ECE,3,I007,Dr. Sameer Khan,Spring 2024,Completed,C
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CSE201,Data Structures,CSE,4,I002,Dr. Rahul Mehta,Spring 2024,Completed,S
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CSE320,Computer Networks,CSE,3,I005,Prof. R. Srinivas,Spring 2024,Completed,S
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,ECE220,Signals & Systems,ECE,3,I001,Dr. Ananya Gupta,Spring 2024,Completed,C
+S0003,Myra Singh,Female,2006-01-25,B.Tech,4,CE,Civil Engineering,Dr. Neha Verma,myra.singh.s0003@college.ac.in,CE140,Structural Analysis,CE,3,I009,Dr. Vikram Rao,Spring 2024,Enrolled,
+S0003,Myra Singh,Female,2006-01-25,B.Tech,4,CE,Civil Engineering,Dr. Neha Verma,myra.singh.s0003@college.ac.in,CE310,Geotechnical Engg,CE,3,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,B-
+S0003,Myra Singh,Female,2006-01-25,B.Tech,4,CE,Civil Engineering,Dr. Neha Verma,myra.singh.s0003@college.ac.in,IT160,Web Technologies,IT,3,I004,Dr. Arjun Nair,Spring 2024,Enrolled,
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,BIO270,Bioinformatics,BIO,3,I004,Dr. Arjun Nair,Spring 2024,Completed,C
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CE140,Structural Analysis,CE,3,I008,Prof. Priya Iyer,Spring 2024,Dropped,
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CSE201,Data Structures,CSE,4,I002,Dr. Rahul Mehta,Spring 2024,Dropped,
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,CSE320,Computer Networks,CSE,3,I002,Dr. Rahul Mehta,Spring 2024,Completed,C
+S0005,Myra Patel,Male,2003-02-18,B.E.,3,CSE,Computer Science & Engineering,Prof. Shweta Kulkarni,myra.patel.s0005@univ.edu,ECE310,Digital Communication,ECE,3,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,S
+S0007,Sai Rao,Female,2001-11-09,BSc (Engg.),1,IT,Information Technology,Prof. Shweta Kulkarni,sai.rao.s0007@campus.edu.in,BIO170,Genetics,BIO,3,I009,Dr. Vikram Rao,Spring 2024,Completed,D
+S0007,Sai Rao,Female,2001-11-09,BSc (Engg.),1,IT,Information Technology,Prof. Shweta Kulkarni,sai.rao.s0007@campus.edu.in,IT160,Web Technologies,IT,3,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,S
+S0007,Sai Rao,Female,2001-11-09,BSc (Engg.),1,IT,Information Technology,Prof. Shweta Kulkarni,sai.rao.s0007@campus.edu.in,IT260,Cloud Computing,IT,3,I005,Prof. R. Srinivas,Spring 2024,Completed,D
+S0007,Sai Rao,Female,2001-11-09,BSc (Engg.),1,IT,Information Technology,Prof. Shweta Kulkarni,sai.rao.s0007@campus.edu.in,ME120,Thermodynamics,ME,4,I005,Prof. R. Srinivas,Spring 2024,Completed,B-
+S0012,Diya Singh,Male,2003-07-20,B.E.,3,ME,Mechanical Engineering,Dr. Vikram Rao,diya.singh.s0012@univ.edu,ME120,Thermodynamics,ME,4,I003,Prof. Kavita Sharma,Spring 2024,Enrolled,
+S0012,Diya Singh,Male,2003-07-20,B.E.,3,ME,Mechanical Engineering,Dr. Vikram Rao,diya.singh.s0012@univ.edu,ME230,Machine Design,ME,3,I002,Dr. Rahul Mehta,Spring 2024,Completed,U
+S0012,Diya Singh,Male,2003-07-20,B.E.,3,ME,Mechanical Engineering,Dr. Vikram Rao,diya.singh.s0012@univ.edu,ME310,Heat Transfer,ME,3,I005,Prof. R. Srinivas,Spring 2024,Completed,C
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,CSE210,Database Systems,CSE,3,I004,Dr. Arjun Nair,Spring 2024,Enrolled,
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,EEE150,Power Systems,EEE,4,I006,Dr. Neha Verma,Spring 2024,Completed,B+
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,IT260,Cloud Computing,IT,3,I009,Dr. Vikram Rao,Spring 2024,Completed,C+
+S0018,Kabir Iyer,Other,2005-06-15,BSc (Engg.),4,CE,Civil Engineering,Dr. Rahul Mehta,kabir.iyer.s0018@univ.edu,BIO170,Genetics,BIO,3,I004,Dr. Arjun Nair,Spring 2024,Completed,B
+S0018,Kabir Iyer,Other,2005-06-15,BSc (Engg.),4,CE,Civil Engineering,Dr. Rahul Mehta,kabir.iyer.s0018@univ.edu,CE140,Structural Analysis,CE,3,I004,Dr. Arjun Nair,Spring 2024,Dropped,
+S0018,Kabir Iyer,Other,2005-06-15,BSc (Engg.),4,CE,Civil Engineering,Dr. Rahul Mehta,kabir.iyer.s0018@univ.edu,CE310,Geotechnical Engg,CE,3,I010,Prof. Shweta Kulkarni,Spring 2024,Enrolled,
+S0018,Kabir Iyer,Other,2005-06-15,BSc (Engg.),4,CE,Civil Engineering,Dr. Rahul Mehta,kabir.iyer.s0018@univ.edu,CSE201,Data Structures,CSE,4,I009,Dr. Vikram Rao,Spring 2024,Enrolled,
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,CSE101,Intro to Programming,CSE,4,I005,Prof. R. Srinivas,Spring 2024,Completed,B+
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,CSE201,Data Structures,CSE,4,I002,Dr. Rahul Mehta,Spring 2024,Enrolled,
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,CSE210,Database Systems,CSE,3,I008,Prof. Priya Iyer,Spring 2024,Enrolled,
+S0020,Muhammad Verma,Male,2006-06-03,BSc (Engg.),2,CSE,Computer Science & Engineering,Prof. R. Srinivas,muhammad.verma.s0020@campus.edu.in,EEE150,Power Systems,EEE,4,I002,Dr. Rahul Mehta,Spring 2024,Completed,C+
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,CSE201,Data Structures,CSE,4,I002,Dr. Rahul Mehta,Spring 2024,Enrolled,
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,CSE320,Computer Networks,CSE,3,I008,Prof. Priya Iyer,Spring 2024,Completed,S
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,ECE310,Digital Communication,ECE,3,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,S
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,ECE310,Digital Communication,ECE,3,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,U
+S0029,Muhammad Iyer,Male,2004-04-19,BSc (Engg.),1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,muhammad.iyer.s0029@univ.edu,ECE110,Circuits I,ECE,4,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,B+
+S0029,Muhammad Iyer,Male,2004-04-19,BSc (Engg.),1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,muhammad.iyer.s0029@univ.edu,ECE220,Signals & Systems,ECE,3,I008,Prof. Priya Iyer,Spring 2024,Enrolled,
+S0029,Muhammad Iyer,Male,2004-04-19,BSc (Engg.),1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,muhammad.iyer.s0029@univ.edu,ECE310,Digital Communication,ECE,3,I003,Prof. Kavita Sharma,Spring 2024,Enrolled,
+S0030,Anika Singh,Other,2002-05-07,BSc (Engg.),3,BIO,Biotechnology,Dr. Arjun Nair,anika.singh.s0030@college.ac.in,BIO170,Genetics,BIO,3,I004,Dr. Arjun Nair,Spring 2024,Completed,S
+S0030,Anika Singh,Other,2002-05-07,BSc (Engg.),3,BIO,Biotechnology,Dr. Arjun Nair,anika.singh.s0030@college.ac.in,BIO270,Bioinformatics,BIO,3,I008,Prof. Priya Iyer,Spring 2024,Dropped,
+S0030,Anika Singh,Other,2002-05-07,BSc (Engg.),3,BIO,Biotechnology,Dr. Arjun Nair,anika.singh.s0030@college.ac.in,CE140,Structural Analysis,CE,3,I007,Dr. Sameer Khan,Spring 2024,Completed,C
+S0030,Anika Singh,Other,2002-05-07,BSc (Engg.),3,BIO,Biotechnology,Dr. Arjun Nair,anika.singh.s0030@college.ac.in,CE310,Geotechnical Engg,CE,3,I008,Prof. Priya Iyer,Spring 2024,Completed,B-
+S0030,Anika Singh,Other,2002-05-07,BSc (Engg.),3,BIO,Biotechnology,Dr. Arjun Nair,anika.singh.s0030@college.ac.in,IT160,Web Technologies,IT,3,I003,Prof. Kavita Sharma,Spring 2024,Completed,S
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,BIO170,Genetics,BIO,3,I003,Prof. Kavita Sharma,Spring 2024,Completed,D
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,BIO270,Bioinformatics,BIO,3,I008,Prof. Priya Iyer,Spring 2024,Completed,A-
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,CSE201,Data Structures,CSE,4,I001,Dr. Ananya Gupta,Spring 2024,Completed,B+
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,ECE310,Digital Communication,ECE,3,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,A-
+S0031,Arjun Reddy,Female,2002-02-01,B.E.,1,BIO,Biotechnology,Dr. Rahul Mehta,arjun.reddy.s0031@campus.edu.in,IT160,Web Technologies,IT,3,I009,Dr. Vikram Rao,Spring 2024,Dropped,
+S0032,Siya Reddy,Male,2002-02-08,B.E.,3,CE,Civil Engineering,Prof. Kavita Sharma,siya.reddy.s0032@college.ac.in,CE140,Structural Analysis,CE,3,I002,Dr. Rahul Mehta,Spring 2024,Enrolled,
+S0032,Siya Reddy,Male,2002-02-08,B.E.,3,CE,Civil Engineering,Prof. Kavita Sharma,siya.reddy.s0032@college.ac.in,CE310,Geotechnical Engg,CE,3,I008,Prof. Priya Iyer,Spring 2024,Completed,A
+S0032,Siya Reddy,Male,2002-02-08,B.E.,3,CE,Civil Engineering,Prof. Kavita Sharma,siya.reddy.s0032@college.ac.in,CSE310,Operating Systems,CSE,4,I009,Dr. Vikram Rao,Spring 2024,Completed,B+
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,EEE150,Power Systems,EEE,4,I001,Dr. Ananya Gupta,Spring 2024,Completed,A
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,IT260,Cloud Computing,IT,3,I006,Dr. Neha Verma,Spring 2024,Dropped,
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,ME230,Machine Design,ME,3,I009,Dr. Vikram Rao,Spring 2024,Completed,F
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CE140,Structural Analysis,CE,3,I008,Prof. Priya Iyer,Spring 2024,Completed,C+
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CSE101,Intro to Programming,CSE,4,I010,Prof. Shweta Kulkarni,Spring 2024,Enrolled,
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,CSE320,Computer Networks,CSE,3,I008,Prof. Priya Iyer,Spring 2024,Completed,C
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,ECE220,Signals & Systems,ECE,3,I006,Dr. Neha Verma,Spring 2024,Completed,D
+S0036,Advika Gupta,Other,2002-03-24,B.E.,4,CSE,Computer Science & Engineering,Dr. Vikram Rao,advika.gupta.s0036@univ.edu,IT160,Web Technologies,IT,3,I003,Prof. Kavita Sharma,Spring 2024,Completed,F
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,CE140,Structural Analysis,CE,3,I001,Dr. Ananya Gupta,Spring 2024,Completed,A
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,CE310,Geotechnical Engg,CE,3,I006,Dr. Neha Verma,Spring 2024,Completed,S
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,ECE110,Circuits I,ECE,4,I010,Prof. Shweta Kulkarni,Spring 2024,Dropped,
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,ECE220,Signals & Systems,ECE,3,I003,Prof. Kavita Sharma,Spring 2024,Enrolled,
+S0037,Aditya Gupta,Other,2000-06-19,BSc (Engg.),2,ECE,Electronics & Communication Engineering,Dr. Sameer Khan,aditya.gupta.s0037@univ.edu,ECE310,Digital Communication,ECE,3,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,S
+S0038,Kabir Rao,Male,2002-04-22,B.Tech,1,CSE,Computer Science & Engineering,Dr. Neha Verma,kabir.rao.s0038@campus.edu.in,CSE101,Intro to Programming,CSE,4,I007,Dr. Sameer Khan,Spring 2024,Completed,B
+S0038,Kabir Rao,Male,2002-04-22,B.Tech,1,CSE,Computer Science & Engineering,Dr. Neha Verma,kabir.rao.s0038@campus.edu.in,CSE310,Operating Systems,CSE,4,I006,Dr. Neha Verma,Spring 2024,Completed,C+
+S0038,Kabir Rao,Male,2002-04-22,B.Tech,1,CSE,Computer Science & Engineering,Dr. Neha Verma,kabir.rao.s0038@campus.edu.in,CSE320,Computer Networks,CSE,3,I006,Dr. Neha Verma,Spring 2024,Completed,C+
+S0038,Kabir Rao,Male,2002-04-22,B.Tech,1,CSE,Computer Science & Engineering,Dr. Neha Verma,kabir.rao.s0038@campus.edu.in,IT260,Cloud Computing,IT,3,I007,Dr. Sameer Khan,Spring 2024,Enrolled,
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,CHE180,Process Calculations,CHE,4,I009,Dr. Vikram Rao,Spring 2024,Completed,B+
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,CHE280,Transport Phenomena,CHE,3,I005,Prof. R. Srinivas,Spring 2024,Completed,A
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,CSE201,Data Structures,CSE,4,I006,Dr. Neha Verma,Spring 2024,Completed,U
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,EEE150,Power Systems,EEE,4,I008,Prof. Priya Iyer,Spring 2024,Enrolled,
+S0043,Sai Singh,Female,2000-02-20,B.E.,3,EEE,Electrical & Electronics Engineering,Dr. Neha Verma,sai.singh.s0043@college.ac.in,ME120,Thermodynamics,ME,4,I005,Prof. R. Srinivas,Spring 2024,Completed,A-
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,CHE180,Process Calculations,CHE,4,I006,Dr. Neha Verma,Spring 2024,Enrolled,
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,CHE180,Process Calculations,CHE,4,I009,Dr. Vikram Rao,Spring 2024,Completed,B+
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,CSE310,Operating Systems,CSE,4,I009,Dr. Vikram Rao,Spring 2024,Enrolled,
+S0046,Diya Rao,Female,2005-05-18,B.Tech,2,EEE,Electrical & Electronics Engineering,Dr. Sameer Khan,diya.rao.s0046@campus.edu.in,EEE150,Power Systems,EEE,4,I002,Dr. Rahul Mehta,Spring 2024,Completed,U
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,BIO170,Genetics,BIO,3,I004,Dr. Arjun Nair,Spring 2024,Dropped,
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,BIO270,Bioinformatics,BIO,3,I008,Prof. Priya Iyer,Spring 2024,Completed,B-
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,CE140,Structural Analysis,CE,3,I002,Dr. Rahul Mehta,Spring 2024,Enrolled,
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,CE140,Structural Analysis,CE,3,I007,Dr. Sameer Khan,Spring 2024,Completed,A
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CE140,Structural Analysis,CE,3,I001,Dr. Ananya Gupta,Spring 2024,Enrolled,
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CE310,Geotechnical Engg,CE,3,I005,Prof. R. Srinivas,Spring 2024,Completed,B-
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CHE280,Transport Phenomena,CHE,3,I002,Dr. Rahul Mehta,Spring 2024,Dropped,
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,ME310,Heat Transfer,ME,3,I001,Dr. Ananya Gupta,Spring 2024,Completed,U
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,ME310,Heat Transfer,ME,3,I007,Dr. Sameer Khan,Spring 2024,Completed,B+
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,CHE180,Process Calculations,CHE,4,I007,Dr. Sameer Khan,Spring 2024,Enrolled,
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,CHE280,Transport Phenomena,CHE,3,I004,Dr. Arjun Nair,Spring 2024,Completed,C
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,CSE320,Computer Networks,CSE,3,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,B
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,ECE310,Digital Communication,ECE,3,I002,Dr. Rahul Mehta,Spring 2024,Enrolled,
+S0054,Myra Reddy,Male,2006-11-09,BSc (Engg.),4,CHE,Chemical Engineering,Dr. Arjun Nair,myra.reddy.s0054@college.ac.in,EEE150,Power Systems,EEE,4,I010,Prof. Shweta Kulkarni,Spring 2024,Completed,A-
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,CSE201,Data Structures,CSE,4,I004,Dr. Arjun Nair,Spring 2024,Completed,F
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ME120,Thermodynamics,ME,4,I006,Dr. Neha Verma,Spring 2024,Completed,U
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ME230,Machine Design,ME,3,I002,Dr. Rahul Mehta,Spring 2024,Enrolled,
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ME310,Heat Transfer,ME,3,I003,Prof. Kavita Sharma,Spring 2024,Dropped,
+S0001,Aarav Reddy,Male,2001-03-24,B.Tech,1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,aarav.reddy.s0001@college.ac.in,CSE210,Database Systems,CSE,3,I003,Prof. Kavita Sharma,Spring 2025,Completed,D
+S0001,Aarav Reddy,Male,2001-03-24,B.Tech,1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,aarav.reddy.s0001@college.ac.in,ECE110,Circuits I,ECE,4,I004,Dr. Arjun Nair,Spring 2025,Completed,S
+S0001,Aarav Reddy,Male,2001-03-24,B.Tech,1,ECE,Electronics & Communication Engineering,Prof. Shweta Kulkarni,aarav.reddy.s0001@college.ac.in,ECE220,Signals & Systems,ECE,3,I001,Dr. Ananya Gupta,Spring 2025,Completed,B
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CSE101,Intro to Programming,CSE,4,I008,Prof. Priya Iyer,Spring 2025,Enrolled,
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CSE210,Database Systems,CSE,3,I006,Dr. Neha Verma,Spring 2025,Completed,D
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,CSE320,Computer Networks,CSE,3,I003,Prof. Kavita Sharma,Spring 2025,Completed,F
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,IT160,Web Technologies,IT,3,I008,Prof. Priya Iyer,Spring 2025,Completed,S
+S0002,Aarav Verma,Male,2001-09-20,B.Tech,2,CSE,Computer Science & Engineering,Dr. Vikram Rao,aarav.verma.s0002@college.ac.in,ME310,Heat Transfer,ME,3,I005,Prof. R. Srinivas,Spring 2025,Completed,F
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME120,Thermodynamics,ME,4,I005,Prof. R. Srinivas,Spring 2025,Completed,C+
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME230,Machine Design,ME,3,I004,Dr. Arjun Nair,Spring 2025,Completed,B
+S0004,Reyansh Rao,Male,2000-07-04,B.E.,3,ME,Mechanical Engineering,Prof. Shweta Kulkarni,reyansh.rao.s0004@college.ac.in,ME310,Heat Transfer,ME,3,I001,Dr. Ananya Gupta,Spring 2025,Enrolled,
+S0006,Vivaan Mehta,Female,2000-04-28,B.Tech,4,ECE,Electronics & Communication Engineering,Prof. R. Srinivas,vivaan.mehta.s0006@college.ac.in,BIO170,Genetics,BIO,3,I007,Dr. Sameer Khan,Spring 2025,Enrolled,
+S0006,Vivaan Mehta,Female,2000-04-28,B.Tech,4,ECE,Electronics & Communication Engineering,Prof. R. Srinivas,vivaan.mehta.s0006@college.ac.in,ECE110,Circuits I,ECE,4,I002,Dr. Rahul Mehta,Spring 2025,Completed,B-
+S0006,Vivaan Mehta,Female,2000-04-28,B.Tech,4,ECE,Electronics & Communication Engineering,Prof. R. Srinivas,vivaan.mehta.s0006@college.ac.in,ECE220,Signals & Systems,ECE,3,I005,Prof. R. Srinivas,Spring 2025,Completed,D
+S0006,Vivaan Mehta,Female,2000-04-28,B.Tech,4,ECE,Electronics & Communication Engineering,Prof. R. Srinivas,vivaan.mehta.s0006@college.ac.in,ECE310,Digital Communication,ECE,3,I010,Prof. Shweta Kulkarni,Spring 2025,Completed,B
+S0009,Vivaan Rao,Female,2002-02-07,BSc (Engg.),3,CE,Civil Engineering,Dr. Arjun Nair,vivaan.rao.s0009@campus.edu.in,CE140,Structural Analysis,CE,3,I006,Dr. Neha Verma,Spring 2025,Enrolled,
+S0009,Vivaan Rao,Female,2002-02-07,BSc (Engg.),3,CE,Civil Engineering,Dr. Arjun Nair,vivaan.rao.s0009@campus.edu.in,CE310,Geotechnical Engg,CE,3,I007,Dr. Sameer Khan,Spring 2025,Completed,A
+S0009,Vivaan Rao,Female,2002-02-07,BSc (Engg.),3,CE,Civil Engineering,Dr. Arjun Nair,vivaan.rao.s0009@campus.edu.in,IT160,Web Technologies,IT,3,I009,Dr. Vikram Rao,Spring 2025,Completed,A
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,BIO170,Genetics,BIO,3,I001,Dr. Ananya Gupta,Spring 2025,Completed,A
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,ECE110,Circuits I,ECE,4,I002,Dr. Rahul Mehta,Spring 2025,Completed,A-
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,ECE220,Signals & Systems,ECE,3,I008,Prof. Priya Iyer,Spring 2025,Enrolled,
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,ECE310,Digital Communication,ECE,3,I004,Dr. Arjun Nair,Spring 2025,Completed,C
+S0013,Ira Reddy,Other,2002-02-10,B.E.,2,ECE,Electronics & Communication Engineering,Prof. Priya Iyer,ira.reddy.s0013@univ.edu,IT160,Web Technologies,IT,3,I005,Prof. R. Srinivas,Spring 2025,Dropped,
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,CE310,Geotechnical Engg,CE,3,I004,Dr. Arjun Nair,Spring 2025,Completed,U
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,CSE101,Intro to Programming,CSE,4,I010,Prof. Shweta Kulkarni,Spring 2025,Completed,B
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,CSE201,Data Structures,CSE,4,I003,Prof. Kavita Sharma,Spring 2025,Completed,U
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,CSE320,Computer Networks,CSE,3,I001,Dr. Ananya Gupta,Spring 2025,Completed,D
+S0014,Siya Gupta,Other,2000-11-10,BSc (Engg.),2,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,siya.gupta.s0014@college.ac.in,EEE150,Power Systems,EEE,4,I005,Prof. R. Srinivas,Spring 2025,Completed,B
+S0022,Vihaan Verma,Other,2003-06-14,B.E.,4,CE,Civil Engineering,Dr. Ananya Gupta,vihaan.verma.s0022@campus.edu.in,CE140,Structural Analysis,CE,3,I009,Dr. Vikram Rao,Spring 2025,Dropped,
+S0022,Vihaan Verma,Other,2003-06-14,B.E.,4,CE,Civil Engineering,Dr. Ananya Gupta,vihaan.verma.s0022@campus.edu.in,CE310,Geotechnical Engg,CE,3,I005,Prof. R. Srinivas,Spring 2025,Completed,C
+S0022,Vihaan Verma,Other,2003-06-14,B.E.,4,CE,Civil Engineering,Dr. Ananya Gupta,vihaan.verma.s0022@campus.edu.in,ECE110,Circuits I,ECE,4,I010,Prof. Shweta Kulkarni,Spring 2025,Completed,U
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,CSE101,Intro to Programming,CSE,4,I001,Dr. Ananya Gupta,Spring 2025,Dropped,
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,CSE310,Operating Systems,CSE,4,I005,Prof. R. Srinivas,Spring 2025,Enrolled,
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME120,Thermodynamics,ME,4,I008,Prof. Priya Iyer,Spring 2025,Dropped,
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME230,Machine Design,ME,3,I006,Dr. Neha Verma,Spring 2025,Completed,S
+S0024,Diya Gupta,Female,2003-04-28,B.Tech,4,ME,Mechanical Engineering,Dr. Vikram Rao,diya.gupta.s0024@univ.edu,ME310,Heat Transfer,ME,3,I007,Dr. Sameer Khan,Spring 2025,Completed,C
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,CSE101,Intro to Programming,CSE,4,I001,Dr. Ananya Gupta,Spring 2025,Completed,A-
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,CSE310,Operating Systems,CSE,4,I005,Prof. R. Srinivas,Spring 2025,Completed,S
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,IT260,Cloud Computing,IT,3,I005,Prof. R. Srinivas,Spring 2025,Completed,A
+S0025,Ira Sharma,Male,2006-04-06,B.E.,4,CSE,Computer Science & Engineering,Prof. Priya Iyer,ira.sharma.s0025@univ.edu,IT260,Cloud Computing,IT,3,I001,Dr. Ananya Gupta,Spring 2025,Completed,B-
+S0030,Anika Singh,Other,2002-05-07,BSc (Engg.),3,BIO,Biotechnology,Dr. Arjun Nair,anika.singh.s0030@college.ac.in,BIO170,Genetics,BIO,3,I009,Dr. Vikram Rao,Spring 2025,Dropped,
+S0030,Anika Singh,Other,2002-05-07,BSc (Engg.),3,BIO,Biotechnology,Dr. Arjun Nair,anika.singh.s0030@college.ac.in,BIO270,Bioinformatics,BIO,3,I009,Dr. Vikram Rao,Spring 2025,Completed,B-
+S0030,Anika Singh,Other,2002-05-07,BSc (Engg.),3,BIO,Biotechnology,Dr. Arjun Nair,anika.singh.s0030@college.ac.in,CHE180,Process Calculations,CHE,4,I002,Dr. Rahul Mehta,Spring 2025,Completed,B-
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,BIO170,Genetics,BIO,3,I008,Prof. Priya Iyer,Spring 2025,Completed,B+
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,EEE150,Power Systems,EEE,4,I003,Prof. Kavita Sharma,Spring 2025,Completed,U
+S0033,Navya Patel,Male,2005-09-10,BSc (Engg.),1,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,navya.patel.s0033@college.ac.in,ME310,Heat Transfer,ME,3,I008,Prof. Priya Iyer,Spring 2025,Dropped,
+S0038,Kabir Rao,Male,2002-04-22,B.Tech,1,CSE,Computer Science & Engineering,Dr. Neha Verma,kabir.rao.s0038@campus.edu.in,CSE201,Data Structures,CSE,4,I002,Dr. Rahul Mehta,Spring 2025,Enrolled,
+S0038,Kabir Rao,Male,2002-04-22,B.Tech,1,CSE,Computer Science & Engineering,Dr. Neha Verma,kabir.rao.s0038@campus.edu.in,CSE210,Database Systems,CSE,3,I005,Prof. R. Srinivas,Spring 2025,Completed,B+
+S0038,Kabir Rao,Male,2002-04-22,B.Tech,1,CSE,Computer Science & Engineering,Dr. Neha Verma,kabir.rao.s0038@campus.edu.in,ECE220,Signals & Systems,ECE,3,I004,Dr. Arjun Nair,Spring 2025,Dropped,
+S0038,Kabir Rao,Male,2002-04-22,B.Tech,1,CSE,Computer Science & Engineering,Dr. Neha Verma,kabir.rao.s0038@campus.edu.in,IT260,Cloud Computing,IT,3,I007,Dr. Sameer Khan,Spring 2025,Completed,C
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,EEE150,Power Systems,EEE,4,I009,Dr. Vikram Rao,Spring 2025,Enrolled,
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,IT160,Web Technologies,IT,3,I001,Dr. Ananya Gupta,Spring 2025,Completed,S
+S0040,Diya Mehta,Female,2001-12-04,B.E.,1,IT,Information Technology,Prof. Priya Iyer,diya.mehta.s0040@univ.edu,IT260,Cloud Computing,IT,3,I006,Dr. Neha Verma,Spring 2025,Completed,C+
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,CE140,Structural Analysis,CE,3,I001,Dr. Ananya Gupta,Spring 2025,Completed,C
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,CE310,Geotechnical Engg,CE,3,I003,Prof. Kavita Sharma,Spring 2025,Completed,B
+S0041,Myra Rao,Female,2006-04-08,B.Tech,2,CE,Civil Engineering,Dr. Sameer Khan,myra.rao.s0041@college.ac.in,ME230,Machine Design,ME,3,I007,Dr. Sameer Khan,Spring 2025,Completed,S
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE110,Circuits I,ECE,4,I003,Prof. Kavita Sharma,Spring 2025,Enrolled,
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE220,Signals & Systems,ECE,3,I006,Dr. Neha Verma,Spring 2025,Completed,S
+S0044,Ananya Singh,Male,2002-01-23,B.E.,1,ECE,Electronics & Communication Engineering,Dr. Vikram Rao,ananya.singh.s0044@campus.edu.in,ECE310,Digital Communication,ECE,3,I004,Dr. Arjun Nair,Spring 2025,Enrolled,
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,BIO170,Genetics,BIO,3,I006,Dr. Neha Verma,Spring 2025,Completed,B+
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,BIO270,Bioinformatics,BIO,3,I010,Prof. Shweta Kulkarni,Spring 2025,Completed,U
+S0047,Sai Singh,Other,2002-07-18,B.Tech,3,BIO,Biotechnology,Prof. R. Srinivas,sai.singh.s0047@univ.edu,IT260,Cloud Computing,IT,3,I009,Dr. Vikram Rao,Spring 2025,Enrolled,
+S0050,Muhammad Mehta,Male,2000-01-08,B.E.,1,EEE,Electrical & Electronics Engineering,Prof. Priya Iyer,muhammad.mehta.s0050@college.ac.in,CE140,Structural Analysis,CE,3,I008,Prof. Priya Iyer,Spring 2025,Completed,C+
+S0050,Muhammad Mehta,Male,2000-01-08,B.E.,1,EEE,Electrical & Electronics Engineering,Prof. Priya Iyer,muhammad.mehta.s0050@college.ac.in,EEE150,Power Systems,EEE,4,I006,Dr. Neha Verma,Spring 2025,Completed,C
+S0050,Muhammad Mehta,Male,2000-01-08,B.E.,1,EEE,Electrical & Electronics Engineering,Prof. Priya Iyer,muhammad.mehta.s0050@college.ac.in,ME310,Heat Transfer,ME,3,I005,Prof. R. Srinivas,Spring 2025,Completed,F
+S0051,Ananya Khan,Female,2001-03-21,BSc (Engg.),1,CE,Civil Engineering,Dr. Rahul Mehta,ananya.khan.s0051@college.ac.in,BIO170,Genetics,BIO,3,I010,Prof. Shweta Kulkarni,Spring 2025,Completed,B-
+S0051,Ananya Khan,Female,2001-03-21,BSc (Engg.),1,CE,Civil Engineering,Dr. Rahul Mehta,ananya.khan.s0051@college.ac.in,BIO270,Bioinformatics,BIO,3,I009,Dr. Vikram Rao,Spring 2025,Dropped,
+S0051,Ananya Khan,Female,2001-03-21,BSc (Engg.),1,CE,Civil Engineering,Dr. Rahul Mehta,ananya.khan.s0051@college.ac.in,CE140,Structural Analysis,CE,3,I003,Prof. Kavita Sharma,Spring 2025,Enrolled,
+S0051,Ananya Khan,Female,2001-03-21,BSc (Engg.),1,CE,Civil Engineering,Dr. Rahul Mehta,ananya.khan.s0051@college.ac.in,CE310,Geotechnical Engg,CE,3,I001,Dr. Ananya Gupta,Spring 2025,Completed,B
+S0051,Ananya Khan,Female,2001-03-21,BSc (Engg.),1,CE,Civil Engineering,Dr. Rahul Mehta,ananya.khan.s0051@college.ac.in,CHE280,Transport Phenomena,CHE,3,I003,Prof. Kavita Sharma,Spring 2025,Enrolled,
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CE140,Structural Analysis,CE,3,I003,Prof. Kavita Sharma,Spring 2025,Completed,B
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CE310,Geotechnical Engg,CE,3,I002,Dr. Rahul Mehta,Spring 2025,Completed,A
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CHE280,Transport Phenomena,CHE,3,I010,Prof. Shweta Kulkarni,Spring 2025,Dropped,
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CSE101,Intro to Programming,CSE,4,I001,Dr. Ananya Gupta,Spring 2025,Completed,U
+S0052,Sai Patel,Female,2000-09-08,B.Tech,4,CE,Civil Engineering,Prof. Kavita Sharma,sai.patel.s0052@college.ac.in,CSE201,Data Structures,CSE,4,I004,Dr. Arjun Nair,Spring 2025,Completed,C+
+S0053,Myra Singh,Other,2004-07-27,BSc (Engg.),4,IT,Information Technology,Prof. Kavita Sharma,myra.singh.s0053@campus.edu.in,ECE310,Digital Communication,ECE,3,I002,Dr. Rahul Mehta,Spring 2025,Dropped,
+S0053,Myra Singh,Other,2004-07-27,BSc (Engg.),4,IT,Information Technology,Prof. Kavita Sharma,myra.singh.s0053@campus.edu.in,IT160,Web Technologies,IT,3,I007,Dr. Sameer Khan,Spring 2025,Completed,C+
+S0053,Myra Singh,Other,2004-07-27,BSc (Engg.),4,IT,Information Technology,Prof. Kavita Sharma,myra.singh.s0053@campus.edu.in,IT260,Cloud Computing,IT,3,I010,Prof. Shweta Kulkarni,Spring 2025,Dropped,
+S0055,Aditya Reddy,Male,2002-06-11,BSc (Engg.),1,CHE,Chemical Engineering,Prof. Kavita Sharma,aditya.reddy.s0055@univ.edu,BIO170,Genetics,BIO,3,I002,Dr. Rahul Mehta,Spring 2025,Enrolled,
+S0055,Aditya Reddy,Male,2002-06-11,BSc (Engg.),1,CHE,Chemical Engineering,Prof. Kavita Sharma,aditya.reddy.s0055@univ.edu,CHE180,Process Calculations,CHE,4,I008,Prof. Priya Iyer,Spring 2025,Completed,B-
+S0055,Aditya Reddy,Male,2002-06-11,BSc (Engg.),1,CHE,Chemical Engineering,Prof. Kavita Sharma,aditya.reddy.s0055@univ.edu,CHE280,Transport Phenomena,CHE,3,I001,Dr. Ananya Gupta,Spring 2025,Dropped,
+S0055,Aditya Reddy,Male,2002-06-11,BSc (Engg.),1,CHE,Chemical Engineering,Prof. Kavita Sharma,aditya.reddy.s0055@univ.edu,CSE210,Database Systems,CSE,3,I009,Dr. Vikram Rao,Spring 2025,Completed,A-
+S0055,Aditya Reddy,Male,2002-06-11,BSc (Engg.),1,CHE,Chemical Engineering,Prof. Kavita Sharma,aditya.reddy.s0055@univ.edu,ECE110,Circuits I,ECE,4,I003,Prof. Kavita Sharma,Spring 2025,Completed,F
+S0058,Kabir Iyer,Female,2004-12-24,BSc (Engg.),2,IT,Information Technology,Prof. Priya Iyer,kabir.iyer.s0058@univ.edu,CSE310,Operating Systems,CSE,4,I003,Prof. Kavita Sharma,Spring 2025,Completed,C
+S0058,Kabir Iyer,Female,2004-12-24,BSc (Engg.),2,IT,Information Technology,Prof. Priya Iyer,kabir.iyer.s0058@univ.edu,IT160,Web Technologies,IT,3,I005,Prof. R. Srinivas,Spring 2025,Completed,U
+S0058,Kabir Iyer,Female,2004-12-24,BSc (Engg.),2,IT,Information Technology,Prof. Priya Iyer,kabir.iyer.s0058@univ.edu,IT260,Cloud Computing,IT,3,I008,Prof. Priya Iyer,Spring 2025,Enrolled,
+S0059,Diya Khan,Male,2003-06-22,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,diya.khan.s0059@college.ac.in,CHE280,Transport Phenomena,CHE,3,I006,Dr. Neha Verma,Spring 2025,Enrolled,
+S0059,Diya Khan,Male,2003-06-22,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,diya.khan.s0059@college.ac.in,ECE310,Digital Communication,ECE,3,I002,Dr. Rahul Mehta,Spring 2025,Completed,U
+S0059,Diya Khan,Male,2003-06-22,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,diya.khan.s0059@college.ac.in,EEE150,Power Systems,EEE,4,I001,Dr. Ananya Gupta,Spring 2025,Completed,C+
+S0059,Diya Khan,Male,2003-06-22,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,diya.khan.s0059@college.ac.in,ME310,Heat Transfer,ME,3,I009,Dr. Vikram Rao,Spring 2025,Completed,A-
+S0059,Diya Khan,Male,2003-06-22,BSc (Engg.),4,EEE,Electrical & Electronics Engineering,Prof. Kavita Sharma,diya.khan.s0059@college.ac.in,ME310,Heat Transfer,ME,3,I010,Prof. Shweta Kulkarni,Spring 2025,Enrolled,
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,IT160,Web Technologies,IT,3,I008,Prof. Priya Iyer,Spring 2025,Completed,D
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ME120,Thermodynamics,ME,4,I009,Dr. Vikram Rao,Spring 2025,Completed,F
+S0060,Navya Patel,Male,2003-10-19,BSc (Engg.),1,ME,Mechanical Engineering,Dr. Rahul Mehta,navya.patel.s0060@campus.edu.in,ME230,Machine Design,ME,3,I010,Prof. Shweta Kulkarni,Spring 2025,Completed,B

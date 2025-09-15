@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "paper_input",
+        "style_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n\nTask:\n1. Read the text below.\n2. Summarize it according to the chosen style.\n\nStyles:\n- Short: 1\u20132 sentences\n- Medium: 3\u20134 sentences\n- Detailed: Covers all major points\n\nStyle chosen: \"{style_input}\"\n\nDocument:\n\"{paper_input}\"\n\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
