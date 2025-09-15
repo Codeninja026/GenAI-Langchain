@@ -55,13 +55,7 @@ Build end-to-end projects like a YouTube Transcript Q&A Bot.
 
 - Getting Started
 
-Clone the repository
-
-#### git clone https://github.com/<your-username>/GenAI-Langchain.git
-
-cd GenAI-Langchain
-
-
+Clone the repository first 
 Install dependencies
 
 pip install -r requirements.txt
